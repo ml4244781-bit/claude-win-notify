@@ -1,0 +1,15 @@
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Claude Code
+.claude/
+.claude.json
+
+# Temp files
+nul
